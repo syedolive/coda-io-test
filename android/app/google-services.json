@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "566222032648",
+    "project_id": "coda-test-f8644",
+    "storage_bucket": "coda-test-f8644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566222032648:android:b26c50aa49fe343052a6bd",
+        "android_client_info": {
+          "package_name": "com.codatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566222032648-uofnlgv8h701ol432v60gqf1eshgmkgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codatest",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "566222032648-t28q0b8gvhv9updnk7h6217pu0lv73vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj30JJ_bjOm9_CG0hevMfzhW8AyXvvT6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566222032648-t28q0b8gvhv9updnk7h6217pu0lv73vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
