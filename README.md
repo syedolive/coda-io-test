@@ -1,6 +1,6 @@
-# Coda.io Interview Test.
+# 24dev.co Interview Test.
 
-This test is for coda.io interview process and should be treated as such.
+This test is for 24dev.co interview process and should be treated as such.
 
 
 # Tech Stack/Libraries
@@ -20,4 +20,4 @@ run **yarn run android** or **npm run android** to run this app on emulator or a
 
 **Note:** This project is tested on android only because I don't own a mac.
 
-*This project is carried out by Syed Faizan Ul Haq for Coda.io as a test for interview process.*
+*This project is carried out by Syed Faizan Ul Haq for 24dev.co as a test for interview process.*
